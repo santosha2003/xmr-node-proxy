@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/binenv /bash
 git checkout . &&\
 git pull --no-edit &&\
 npm install &&\
