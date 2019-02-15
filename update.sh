@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-git checkout . &&\
+#git checkout . &&\
 git pull --no-edit &&\
 npm install &&\
 echo "Proxy updated OK! Please go ahead and restart with the correct pm2 command"
