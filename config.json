@@ -1,0 +1,49 @@
+{
+  "pools": [
+    {
+      "hostname": "gulf.moneroocean.stream",
+      "port": 10032,
+      "ssl": false,
+      "allowSelfSignedSSL": false,
+      "share": 100,
+      "username": "45BgaJpBT4xK9WYNx87tPCHTCTNkfUXghGjrasD3D2midCxVsZ5r4qUX3BNvwC1RHseGRJgoUpQVPST9kffbKj7ZP2rSVj1",
+      "password": "proxy",
+      "keepAlive": true,
+      "algo": ["cn/2", "cn/half", "cn/wow"],
+      "algos": ["cn/2", "cn/half", "cn/wow"],
+      "blob_type": "cryptonote",
+      "default": true
+    }
+  ],
+  "listeningPorts": [
+    {
+      "port": 3338,
+      "ssl": false,
+      "diff": 47000
+    }
+  ],
+  "bindAddress": "0.0.0.0",
+  "developerShare": 0,
+  "daemonAddress": "127.0.0.1:18081",
+  "accessControl": {
+    "enabled": false,
+    "controlFile": "accessControl.json"
+  },
+  "httpEnable": true,
+  "httpAddress": "127.0.0.1",
+  "httpPort": "8087",
+  "httpUser": "",
+  "httpPass": "",
+  "addressWorkerID": false,
+  "minerInactivityTime": 300,
+  "keepOfflineMiners": 0,
+  "refreshTime": 30,
+  "theme": "light",
+  "coinSettings": {
+    "xmr":{
+      "minDiff": 300,
+      "maxDiff": 500000,
+      "shareTargetTime": 30
+    }
+  }
+}

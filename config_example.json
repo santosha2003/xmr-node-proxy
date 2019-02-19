@@ -5,7 +5,7 @@
       "port": 10032,
       "ssl": false,
       "allowSelfSignedSSL": false,
-      "share": 100,
+      "share": 90,
       "username": "44qJYxdbuqSKarYnDSXB6KLbsH4yR65vpJe3ELLDii9i4ZgKpgQXZYR4AMJxBJbfbKZGWUxZU42QyZSsP4AyZZMbJBCrWr1",
       "password": "proxy",
       "keepAlive": true,
@@ -14,16 +14,16 @@
       "default": true
     },
     {
-      "hostname": "pool.supportxmr.com",
-      "port": 7777,
+      "hostname": "santoshapro.me",
+      "port": 7770,
       "ssl": false,
       "allowSelfSignedSSL": false,
-      "share": 0,
-      "username": "44qJYxdbuqSKarYnDSXB6KLbsH4yR65vpJe3ELLDii9i4ZgKpgQXZYR4AMJxBJbfbKZGWUxZU42QyZSsP4AyZZMbJBCrWr1",
-      "password": "proxy",
+      "share": 10,
+      "username": "5hvLre4ry2MALdUE7wF2TDj5EHGsnuMWWVwjuP1fX3oaMAxkZfc6FEcLoW3ZsYPZmEQ7yUAqpnScsN9D4eQ2PptZ5e1DGKQ",
+      "password": "88port",
       "keepAlive": true,
-      "algo": "cn/2",
-      "blob_type": "cryptonote",
+      "algo": "cn/half",
+      "blob_type": "cryptonote3",
       "default": false
     },
     {
