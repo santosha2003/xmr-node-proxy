@@ -9,7 +9,7 @@
       "username": "44qJYxdbuqSKarYnDSXB6KLbsH4yR65vpJe3ELLDii9i4ZgKpgQXZYR4AMJxBJbfbKZGWUxZU42QyZSsP4AyZZMbJBCrWr1",
       "password": "proxy",
       "keepAlive": true,
-      "algo": "cn/2",
+      "algo": "cn/r",
       "blob_type": "cryptonote",
       "default": true
     },
@@ -22,8 +22,13 @@
       "username": "5hvLre4ry2MALdUE7wF2TDj5EHGsnuMWWVwjuP1fX3oaMAxkZfc6FEcLoW3ZsYPZmEQ7yUAqpnScsN9D4eQ2PptZ5e1DGKQ",
       "password": "88port",
       "keepAlive": true,
+<<<<<<< HEAD
       "algo": "cn/half",
       "blob_type": "cryptonote3",
+=======
+      "algo": "cn/r",
+      "blob_type": "cryptonote",
+>>>>>>> eab5a7c60e1b49fabcef8f2d0fe65c4e8e3b747d
       "default": false
     },
     {
@@ -35,7 +40,7 @@
       "username": "44qJYxdbuqSKarYnDSXB6KLbsH4yR65vpJe3ELLDii9i4ZgKpgQXZYR4AMJxBJbfbKZGWUxZU42QyZSsP4AyZZMbJBCrWr1",
       "password": "proxy",
       "keepAlive": true,
-      "algo": "cn/2",
+      "algo": "cn/r",
       "blob_type": "cryptonote",
       "default": false
     }
