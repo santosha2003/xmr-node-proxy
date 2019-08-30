@@ -26,17 +26,7 @@
     "moment": "2.21.0",
     "request": "^2.79.0",
     "uuid": "3.0.1",
-<<<<<<< HEAD
-<<<<<<< HEAD
-    "cryptoforknote-util": "git+https://github.com/santosha2003/node-cryptoforknote-util.git",
-    "cryptonight-hashing": "git+https://github.com/santosha2003/node-cryptonight-hashing.git"
-=======
-    "cryptoforknote-util": "git+https://github.com/MoneroOcean/node-cryptoforknote-util.git#v4.1.0",
-    "cryptonight-hashing": "git+https://github.com/MoneroOcean/node-cryptonight-hashing.git#v9.0.1"
->>>>>>> eab5a7c60e1b49fabcef8f2d0fe65c4e8e3b747d
-=======
     "cryptoforknote-util": "git+https://github.com/MoneroOcean/node-cryptoforknote-util.git#v5.0.0",
     "cryptonight-hashing": "git+https://github.com/MoneroOcean/node-cryptonight-hashing.git#v13.0.4"
->>>>>>> d508c6a4e4f9c49e418fda490b23a2b803d174e2
   }
 }
